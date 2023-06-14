@@ -1,6 +1,6 @@
 # ESP8266 Motion Sensor to React App using AWS IoT
 
-This repository provides a solution for connecting an ESP8266-based motion sensor to a React application using AWS IoT and a Cloud-based React Application. The ESP8266 board is used to detect motion using a sensor and streams the data to the React application, which then displays the motion events in real-time.
+This repository provides a solution for connecting an ESP8266-based motion sensor to a React application using AWS IoT and a Cloud-based React Application. The ESP8266 board is used to detect motion using a sensor and streams the data to the React application, which then displays the motion events in real-time. This is the kit that I got here titled: <a href="https://www.w3schools.com](https://www.adafruit.com/product/3032">Microsoft Azure IoT Starter Kit w/ Adafruit Feather HUZZAH.</a> I know that I'm using AWS for an Azure kit, but had some credits on AWS that would work so that's why I went that route.
 
 ## Contents
 
