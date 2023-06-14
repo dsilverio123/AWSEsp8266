@@ -65,7 +65,3 @@ Once you have completed the setup instructions, follow these steps to run the ap
 ## Contributing
 
 Contributions to this repository are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request. Let's work together to enhance this project and make it even better.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code provided here for your own projects. However, please note that any modifications or additions made to the original codebase should be appropriately
