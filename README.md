@@ -1,6 +1,6 @@
-# ESP8266 Motion Sensor to React Application
+# ESP8266 Motion Sensor to React Application using AWS IoT
 
-This repository provides a solution for connecting an ESP8266-based motion sensor to a React application using AWS IoT and a Cloud React Application. The ESP8266 board is used to detect motion using a sensor and streams the data to the React application, which then displays the motion events in real-time.
+This repository provides a solution for connecting an ESP8266-based motion sensor to a React application using AWS IoT and a Cloud-based React Application. The ESP8266 board is used to detect motion using a sensor and streams the data to the React application, which then displays the motion events in real-time.
 
 ## Contents
 
@@ -11,7 +11,6 @@ This repository provides a solution for connecting an ESP8266-based motion senso
 - [Setup Instructions](#setup-instructions)
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
